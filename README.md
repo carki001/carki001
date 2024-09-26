@@ -1,3 +1,8 @@
+## Idiomas
+
+English
+Español
+
 ## Hobbies
 
 got no hobbies
