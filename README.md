@@ -1,21 +1,30 @@
-## Nombre
+## Name
 
-Carlos
+Carlos Andrés
 
-## Idiomas
+## Languages
 
-English
-Español
+English, Español
 
-## Hobbies
+## Who Am I?
 
-got no hobbies
-
-## Skills
-
-- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+I am a proactive person, excellent teammate, organized and responsible. I really enjoy
+learning new things, so my goal is to get a challenging and dynamic position where I can
+share my experience and gain new knowledge and skills.
 
 ## Technologies
 
-- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
-- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+CSS
+SASS
+HTML
+Javascript
+Vue JS
+PHP
+Laravel
+MySQL
+Docker
+GIT
+Flutter
+REST API
+Java
+Matlab
