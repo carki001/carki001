@@ -14,17 +14,4 @@ share my experience and gain new knowledge and skills.
 
 ## Technologies
 
-CSS
-SASS
-HTML
-Javascript
-Vue JS
-PHP
-Laravel
-MySQL
-Docker
-GIT
-Flutter
-REST API
-Java
-Matlab
+CSS, SASS, HTML, Javascript, Vue JS, PHP, Laravel, MySQL, GIT, Flutter, REST API, Matlab,
